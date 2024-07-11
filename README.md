@@ -1,10 +1,10 @@
 # Swift MT files documentation and examples
 
 ## Documentation
-* [Format_mt798-swift-message.pdf](Swift Documentation/Format_mt798-swift-message.pdf)
-* [MT103_MT202-bank-payments-formatting-guide.pdf](Swift Documentation/MT103_MT202-bank-payments-formatting-guide.pdf)
-* [swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199.pdf](Swift Documentation/swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199.pdf)
-* [swift-guide-mt540.pdf](Swift Documentation/swift-guide-mt540.pdf)
+* [Format_mt798-swift-message](Swift Documentation/Format_mt798-swift-message.pdf)
+* [MT103_MT202-bank-payments-formatting-guide](Swift Documentation/MT103_MT202-bank-payments-formatting-guide.pdf)
+* [swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199](Swift Documentation/swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199.pdf)
+* [swift-guide-mt540](Swift Documentation/swift-guide-mt540.pdf)
 
 
 
