@@ -3,7 +3,7 @@
 <h2> Documentation  </h2>
 
 
-* <a href='Format_mt798-swift-message.pdf'>Format_mt798-swift-message.pdf</a> <br/>
+
 * <a href='MT103_MT202-bank-payments-formatting-guide.pdf'>MT103_MT202-bank-payments-formatting-guide.pdf</a> <br/>
 * <a href='swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199.pdf'>swift guides for MT101 MT102 MT103 MT104 MT105 MT107 MT110 MT111 MT112 MT190-MT199.pdf</a> <br/>
 * <a href='swift-guide-mt540.pdf'>swift-guide-mt540.pdf</a> <br/>
