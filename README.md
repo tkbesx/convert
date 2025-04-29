@@ -30,6 +30,64 @@
 * [MT300 Viewer](http://www.whiterocksoftware.com/2024/07/mt103mt202mt548mt515mt300-viewer-and.html#MT300Viewer)
 
 
+# YouTube Tutorials
+
+## MT940 Converters
+- [Video tutorial: Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)  
+- [Guide: MT940 File Viewer](https://www.youtube.com/watch?v=yZ6EuD3bebo)  
+- [Step-by-step: Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)  
+- [Instructional video: Convert MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)  
+- [How-to: Convert MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)  
+- [Guide: Convert MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)  
+- [Tutorial: Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)  
+- [Explanation: Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
+
+## Other MT940 Conversions
+- [Tutorial: Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)  
+- [Instruction: Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
+
+## Other Format Converters
+- [How-to: Convert CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)  
+- [Tutorial: Convert CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)  
+- [Instruction: Convert XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)  
+- [Explanation: Convert Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
+
+
+## Excel Generators
+- [Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)  
+- [Convert Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
+
+## Viewer Generators
+- [MT940 Viewer Tutorial](https://www.youtube.com/watch?v=yZ6EuD3bebo)
+
+## CSV Generators
+- [Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)  
+- [Convert CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)  
+- [Convert CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)
+
+## SQL Generators
+- [Convert MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)
+
+## PDF Generators
+- [Convert MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)
+
+## XLS Generators
+- [Convert MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)  
+- [Convert XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)
+
+## XML Generators
+- [Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)
+
+## OFX Generators
+- [Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)
+
+## QIF Generators
+- [Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
+
+## JSON Generators
+- [Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
+
+
 ## mt940 Converters
 
 * [mt940 To Excel](http://www.whiterocksoftware.com/2020/02/good-mt940-to-excel-converter.html)
