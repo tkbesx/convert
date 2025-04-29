@@ -32,7 +32,6 @@
 
 # YouTube Tutorials
 
-## MT940 Converters
 - [Video tutorial: Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)  
 - [Guide: MT940 File Viewer](https://www.youtube.com/watch?v=yZ6EuD3bebo)  
 - [Step-by-step: Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)  
