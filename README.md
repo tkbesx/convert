@@ -30,62 +30,65 @@
 * [MT300 Viewer](http://www.whiterocksoftware.com/2024/07/mt103mt202mt548mt515mt300-viewer-and.html#MT300Viewer)
 
 
-# YouTube Tutorials
+## :sparkles: YouTube Tutorials
 
-- [Video tutorial: Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)  
-- [Guide: MT940 File Viewer](https://www.youtube.com/watch?v=yZ6EuD3bebo)  
-- [Step-by-step: Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)  
-- [Instructional video: Convert MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)  
-- [How-to: Convert MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)  
-- [Guide: Convert MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)  
-- [Tutorial: Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)  
-- [Explanation: Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
+## :file_folder: MT940 Converters
+- :movie_camera: [Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)
+- :mag: [MT940 File Viewer](https://www.youtube.com/watch?v=yZ6EuD3bebo)
+- :repeat: [Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)
+- :floppy_disk: [Convert MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)
+- :page_facing_up: [Convert MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)
+- :bar_chart: [Convert MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)
+- :file_cabinet: [Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)
+- :open_file_folder: [Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
 
-## Other MT940 Conversions
-- [Tutorial: Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)  
-- [Instruction: Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
+## :arrows_clockwise: Other MT940 Conversions
+- :arrow_right: [Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)
+- :arrow_right: [Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
 
-## Other Format Converters
-- [How-to: Convert CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)  
-- [Tutorial: Convert CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)  
-- [Instruction: Convert XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)  
-- [Explanation: Convert Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
+## :twisted_rightwards_arrows: Other Format Converters
+- :inbox_tray: [Convert CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)
+- :repeat: [Convert CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)
+- :bar_chart: [Convert XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)
+- :chart_with_upwards_trend: [Convert Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
 
+---
 
-## Excel Generators
-- [Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)  
-- [Convert Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
+# :hammer_and_wrench: Awesome YouTube Tutorials for Format Generators
 
-## Viewer Generators
-- [MT940 Viewer Tutorial](https://www.youtube.com/watch?v=yZ6EuD3bebo)
+## :bar_chart: Excel Generators
+- :file_folder: [MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)
+- :chart_with_upwards_trend: [Excel to MT940](https://www.youtube.com/watch?v=_83gyJ3h6Cc)
 
-## CSV Generators
-- [Convert MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)  
-- [Convert CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)  
-- [Convert CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)
+## :eyes: Viewer Generators
+- :mag: [MT940 Viewer](https://www.youtube.com/watch?v=yZ6EuD3bebo)
 
-## SQL Generators
-- [Convert MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)
+## :floppy_disk: CSV Generators
+- :repeat: [MT940 to CSV](https://www.youtube.com/watch?v=fi1s6wYVhSo)
+- :inbox_tray: [CSV to MT940](https://www.youtube.com/watch?v=JK93PlkN6oU)
+- :twisted_rightwards_arrows: [CSV to Camt053](https://www.youtube.com/watch?v=9LWcLUaIGUU)
 
-## PDF Generators
-- [Convert MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)
+## :gear: SQL Generators
+- :floppy_disk: [MT940 to SQL](https://www.youtube.com/watch?v=wgp9O90UE4o)
 
-## XLS Generators
-- [Convert MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)  
-- [Convert XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)
+## :page_facing_up: PDF Generators
+- :page_facing_up: [MT940 to PDF](https://www.youtube.com/watch?v=wwIVPKgek30)
 
-## XML Generators
-- [Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)
+## :bar_chart: XLS Generators
+- :file_folder: [MT940 to XLS](https://www.youtube.com/watch?v=x99t3S0_gnQ)
+- :chart_with_upwards_trend: [XLS to MT940](https://www.youtube.com/watch?v=ZZJm97Coqlo)
 
-## OFX Generators
-- [Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)
+## :file_cabinet: XML Generators
+- :file_folder: [MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)
 
-## QIF Generators
-- [Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
+## :credit_card: OFX Generators
+- :arrow_right: [MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)
 
-## JSON Generators
-- [Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
+## :moneybag: QIF Generators
+- :arrow_right: [MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
 
+## :open_file_folder: JSON Generators
+- :open_file_folder: [MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
 
 ## mt940 Converters
 
