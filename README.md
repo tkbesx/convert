@@ -20,7 +20,7 @@
 * <a href='MT548_Updated Example.txt'>MT548_Updated Example.txt</a> <br/>
 
 
-## Viewers
+## :sparkles: Viewers
 
 * [mt940 Viewer](http://www.whiterocksoftware.com/2020/02/swift-mt940-viewer.html)
 * [MT103 Viewer](http://www.whiterocksoftware.com/2024/07/mt103mt202mt548mt515mt300-viewer-and.html#MT103Viewer)
@@ -30,7 +30,7 @@
 * [MT300 Viewer](http://www.whiterocksoftware.com/2024/07/mt103mt202mt548mt515mt300-viewer-and.html#MT300Viewer)
 
 
-## :sparkles: YouTube Tutorials
+## :movie_camera: YouTube Tutorials
 
 ## :file_folder: MT940 Converters
 - :movie_camera: [Convert MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)
