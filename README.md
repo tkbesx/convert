@@ -42,7 +42,7 @@
 - :file_cabinet: [Convert MT940 to XML](https://www.youtube.com/watch?v=Ry0_HH2KKew)
 - :open_file_folder: [Convert MT940 to JSON](https://www.youtube.com/watch?v=UlDQCIkBROo)
 
-## :arrows_clockwise: Other MT940 Conversions
+## :arrows_clockwise:  MT940 Conversions
 - :arrow_right: [Convert MT940 to OFX](https://www.youtube.com/watch?v=Xxp1YGUhJ3Q)
 - :arrow_right: [Convert MT940 to QIF](https://www.youtube.com/watch?v=JQAzLjqmwIc)
 
