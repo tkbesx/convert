@@ -5,10 +5,10 @@ Each entry includes a name, file format, brief description, and a download link.
 ---
 
 ## 🔄 Pdf books on converters 
-[converters-video-tutorials](almanac-converters-youtube-tutorials.pdf) 
-[File generators] (cyclopaedia-generators-083557.pdf)
-[Converters big list](general reference-converters-and-generators-083557.pdf) 
-[Converters and generators combined list] (general reference work-awesome--converters-083557.pdf) 
+* **[converters-video-tutorials](almanac-converters-youtube-tutorials.pdf) **
+* **[File generators] (cyclopaedia-generators-083557.pdf)**
+* **[Converters big list](general reference-converters-and-generators-083557.pdf) **
+* **[Converters and generators combined list] (general reference work-awesome--converters-083557.pdf) **
 
 ## 🔄 Converters
 
