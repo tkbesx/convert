@@ -54,9 +54,9 @@
 
 ---
 
-# [:hammer_and_wrench: Resources](resources/ReadMe.md)
+# :hammer_and_wrench:[Resources](resources/ReadMe.md)
 
-# :camera:   Tutorials 
+# :camera:  Video Tutorials 
 
 ## :bar_chart: Excel Generators
 - :file_folder: [MT940 to Excel](https://www.youtube.com/watch?v=ZHohVeVKy4s)
